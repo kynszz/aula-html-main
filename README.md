@@ -1,2 +1,2 @@
-# aula-html-main
-aulas de html
+# aula-html
+ Estudo de HTML e CSS do curso de Python
